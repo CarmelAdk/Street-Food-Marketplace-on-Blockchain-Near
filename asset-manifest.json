@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Street-Food-Marketplace-on-Blockchain-Near/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/main.8eba242c.chunk.js",
+    "main.js.map": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/main.8eba242c.chunk.js.map",
+    "runtime-main.js": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/runtime-main.415c9668.js",
+    "runtime-main.js.map": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/runtime-main.415c9668.js.map",
+    "static/css/2.9502c52d.chunk.css": "/Street-Food-Marketplace-on-Blockchain-Near/static/css/2.9502c52d.chunk.css",
+    "static/js/2.878a7144.chunk.js": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/2.878a7144.chunk.js",
+    "static/js/2.878a7144.chunk.js.map": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/2.878a7144.chunk.js.map",
+    "static/js/3.29eba376.chunk.js": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/3.29eba376.chunk.js",
+    "static/js/3.29eba376.chunk.js.map": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/3.29eba376.chunk.js.map",
+    "index.html": "/Street-Food-Marketplace-on-Blockchain-Near/index.html",
+    "static/css/2.9502c52d.chunk.css.map": "/Street-Food-Marketplace-on-Blockchain-Near/static/css/2.9502c52d.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/Street-Food-Marketplace-on-Blockchain-Near/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.878a7144.chunk.js.LICENSE.txt": "/Street-Food-Marketplace-on-Blockchain-Near/static/js/2.878a7144.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/Street-Food-Marketplace-on-Blockchain-Near/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.2d312449.jpg": "/Street-Food-Marketplace-on-Blockchain-Near/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.415c9668.js",
+    "static/css/2.9502c52d.chunk.css",
+    "static/js/2.878a7144.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.8eba242c.chunk.js"
+  ]
+}
